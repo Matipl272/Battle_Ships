@@ -56,6 +56,7 @@ namespace Battle_Ships
             //Make sure that 1st player is player 1
             mPlayerTurn = true;
 
+            ///
         }
 
 
