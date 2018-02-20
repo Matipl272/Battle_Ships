@@ -59,15 +59,5 @@ namespace Battle_Ships.Properties {
                 resourceCulture = value;
             }
         }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
-        /// </summary>
-        internal static System.Drawing.Icon Unclebob_Spanish_Travel_Ship {
-            get {
-                object obj = ResourceManager.GetObject("Unclebob_Spanish_Travel_Ship", resourceCulture);
-                return ((System.Drawing.Icon)(obj));
-            }
-        }
     }
 }

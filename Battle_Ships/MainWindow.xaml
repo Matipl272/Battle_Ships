@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Battle_Ships"
         mc:Ignorable="d"
-        Title="Battle Ships By Mat" Height="750" Width="800" WindowStartupLocation="CenterScreen" Icon="pack://siteoforigin:,,,/Resources/Unclebob-Spanish-Travel-Ship.ico">
+        Title="Battle Ships By Mat" Height="750" Width="800" WindowStartupLocation="CenterScreen">
 
     
     <!--Window Resources-->

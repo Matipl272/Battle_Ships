@@ -1,5 +1,6 @@
-﻿using System.Windows;
-
+﻿using System.Linq;
+using System.Windows;
+using System.Windows.Controls;
 
 namespace Battle_Ships
 {
@@ -56,7 +57,8 @@ namespace Battle_Ships
             //Make sure that 1st player is player 1
             mPlayerTurn = true;
 
-            ///
+            //MainGrid.Children.Cast<Button>().ToList.foreach
+
         }
 
 
